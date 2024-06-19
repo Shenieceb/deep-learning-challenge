@@ -1,3 +1,5 @@
+ANSWERS TO QUESTIONS
+
 Identifying the Model’s Target: The model’s target is encapsulated in the “IS_SUCCESSFUL” variable, which serves as a binary indicator of an organization’s historical success in utilizing their funding.
 
 Determining the Model’s Features: The model incorporates the following features:
@@ -23,6 +25,18 @@ Achieving Target Performance: The model did not reach the target performance goa
 Efforts to Enhance Performance: Adjustments were made to the dataset size, the number of neurons, layers, activation functions, epochs, and learning rate in an attempt to improve performance.
 
 Model Performance Summary and Recommendations: The deep learning model, after several optimization attempts, did not surpass 73% accuracy. This outcome suggests that the neural network may not be the optimal approach for this dataset. An alternative, such as the Random Forest model, which constructs multiple decision trees during training, could offer a more robust solution. Similarly, a Gradient Boosting model, which iteratively corrects errors from previous trees, could also be effective in improving accuracy.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
